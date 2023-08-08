@@ -1,5 +1,5 @@
 {
-  "name": "amazon-php/sp-api-sdk-tools",
+  "name": "kuser/sp-api-sdk-tools",
   "description": "Amazon PHP SP API SDK - Tools",
   "autoload": {
     "psr-4": { "AmazonPHP\\Rector\\" : "src/AmazonPHP/Rector/" }
